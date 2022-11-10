@@ -1,0 +1,33 @@
+Week05 Meeting 01 
+Time of meeting :17 00
+1)Distributed tasks for divelopers  deadline 17/11
+1a)gather info on 5 cryptocurrencies per developer 
+1b)write a 100 word summury per crypto 
+1c)reference list for every summery 
+1d)spellcheck every summery
+
+
+
+dev01 Zguri
+1)Bitcoin
+2)BNB
+3)XRP
+4)Polygon
+5)Avalanche
+
+dev02 Savoulidis
+1)Etherium
+2)USDC
+3)Cardano
+4)Polkadot
+5)Uniswap
+
+dev03 Samaras
+1)Tether
+2)BinanceUSD
+3)DodgeCoin
+4)Solana
+5)NEAR Protocolo
+
+
+
