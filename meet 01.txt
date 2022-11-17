@@ -1,6 +1,6 @@
 Week05 Meeting 01 
 Time of meeting :17 00
-1)Distributed tasks for divelopers  deadline 17/11
+1)Distributed tasks for divelopers  deadline 18/11
 1a)gather info on 5 cryptocurrencies per developer 
 1b)write a 100 word summury per crypto 
 1c)reference list for every summery 
