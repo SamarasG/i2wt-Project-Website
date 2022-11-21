@@ -1,0 +1,14 @@
+NEAR Protocol is a discentralized blockchain, operationg on a Proof of Stake consensus algorithm, launched in April of 2020 by the NEAR Foundation , a nonprofit 
+corporation based in Switcherland [2].
+Founded by Eric Trautman {lonk : (https://near.org/blog/near-foundation-ceo-transition-a-note-from-erik-trautman/)},
+Illia Polosukhin {link:(https://golden.com/wiki/Illia_Polosukhin-AMMYWMX)}and Alexander Skidanov {link:(https://golden.com/wiki/Alexander_Skidanov-399M3EA)},
+the NEAR Foundation aims to create an ecosysten that will allow for fast and easy development of Digital Applications [1][2][3]. That goal is currently persued by the
+NEAR Protocols tool repository on GitHub that would allow developers to create DApps and integrate smart contract protocols, Non Fungable Token creation, and DApp 
+redeployment from the Etherium mainnet to the NEAR Protocol through the Rainbow Bridge {link:(https://near.org/bridge/)} as well as the direct exchange between the 
+tokens of the two blockchains [2][3].On the tokenomics side {link:(https://academy.binance.com/en/articles/what-is-tokenomics-and-why-does-it-matter)} we can see 
+that one billion tokens were created at the launch of the blockchain ,and there is also a 5% inflation of tokens per year, of whitch 80% is
+destributed to validator nodes and 20% to the NEAR Foundation Treasury , that uses these funds to ,among other things ,provide grants to developers to subsidize the 
+development of the NEAR Protocol ecosystem [2]. Diflationary presure is aplied throught fees for the use of the blockchain levied on all users . Of the miniscule 
+fees required for the use of the Protocol 70% is burnt and other 30% is given to the validators [1][2].
+
+

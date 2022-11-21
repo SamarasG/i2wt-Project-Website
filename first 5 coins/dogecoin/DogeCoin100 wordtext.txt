@@ -1,0 +1,10 @@
+Dogecoin is the native token of the homonymous blockchain best known for being the first meme coin [1][2].
+The blockchain was created by Billy Markus and Jackson Palmer,both of them experienced software engineers. The token is not owned by a centralized organization, and 
+that makes it one of the few trully decentalized blockchains.Launched on the 6th of December 2013, Dogecoin became an internet sensetion practically over night,
+ surpacing the trading volume of Bitcoin and all other cryptocurrencies in existance a month later [1].All this atracted the interest of malicious actors 
+ that tried to attack the blockchain, an act that led to the mergure of the Dogecoin blockchain with the LiteCoin (LTC) blockchain in 2014 [5]. After the meteoric rise 
+ of the token both in value and in recognision among other blockchains, the re-establishment of the Dogecoin Foundation was desided and acted upon on the 14th of 
+ August 2021 [1].At it's pick in May 2021 Dogecoin reached a market capitalization of 84.5 billion U.S.Dollars [4].
+ With the face of a dog (Shiba Inu) as it's logo this token was initially created to as a critic to the statments of other blockchain creators that the tecknology 
+ behind the cryptocurency would take oner the world and radically change it [1][4].Without the impossition of a limit to number of tokens that can be minted through 
+ Dogecoins Proof of Work algorithm  , inflation is an intrensic carateristic of the value of the token [4].

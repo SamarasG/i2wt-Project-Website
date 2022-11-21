@@ -1,0 +1,3 @@
+https://near.org/papers/the-official-near-white-paper/[1]
+https://golden.com/wiki/NEAR_Protocol-JNNZZ5G[2]
+https://github.com/near[3]

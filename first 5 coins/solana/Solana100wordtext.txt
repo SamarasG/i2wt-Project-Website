@@ -1,0 +1,19 @@
+Solana is a cryptocurancy focussing on smart contract functionality[3].
+Solana was initilly concieved by Anatoly Yakovenko {link =(https://cointelegraph.com/top-people-in-crypto-and-blockchain-2022/anatoly-yakovenko) 
+in 2017 and only three years later the first  block was minted on the Solana blockchain [2],utilizing a Proof oh Hystory Architecture , whitch allows the Leger to 
+order transactions within the same block of the chain [1].It is also important to note that the Solana blockchain can be operated with both a Proof of Work and Proof of 
+Stake architecture as a consensus algorithm [1]. SOL is the naitive token of the Solana network,whose goal is to facilitate the implentation of Digital Aplications 
+that can perform transactions , voting, and many other capabilities through the use of smart contracts , that can execute their terms automatically when the conditions
+are met , and the outcome of the contract implemented with the formation of the next block of the chain [1].
+Advantages  1)Smart contract capabilities[1][3].
+            2)transactions can be concluded at high speeds [1].
+            3)Blockchain resiliance through partition recovery capabilities [1].
+            4)Scalability [1].
+
+Disadvantages 1)Outages due to  transaction load 
+                                bot attacks 
+                                bugs in the main code
+                                and node misconfiguration [2].
+              2)The block was targeted by hakers in 2022 [2].
+              3)Volitile price [2].
+               
