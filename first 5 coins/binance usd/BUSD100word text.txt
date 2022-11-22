@@ -1,0 +1,6 @@
+BUSD is the stablecoin is issued by Paxos and is backed by the biggest crypto currency exchange in the world, Binance. 
+This stable coin has its price linked to the U.S.Dollar and is considered a safe heaven from the volitile crypro market. This allows investors to exit possitions 
+with the speed of BNB , the parent blockchain (Layer1) of BUSD ,and also limit their exposore to market movement.
+It must be noted that  New York State Department of Financial Services  regulates the opperations of the Binance, furthering the sence of trust in the stability 
+of BUSD , in addittion to the one to one reserve backing of all issued BUSD by Paxos.[5].
+

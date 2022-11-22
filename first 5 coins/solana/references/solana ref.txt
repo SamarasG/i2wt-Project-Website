@@ -1,0 +1,3 @@
+https://solana.com/solana-whitepaper.pdf [1]
+https://en.wikipedia.org/wiki/Solana_(blockchain_platform)[2]
+https://solana.com/learn/blockchain-basics[3]

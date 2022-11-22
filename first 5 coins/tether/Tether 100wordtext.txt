@@ -1,0 +1,13 @@
+Tether is cryptocurrency whose price is tethered to a fiat currency to achieve price stability.
+The idea was first published in 2012 in the whitepapper by J. R. Willet,and two years later the Tether cryptocurrency was launched by Tether Limited a company 
+owned by iFinex Inc. , a Hong Kong based company [1][3]. All issued coins are backed by reserves heald by Tether Limited in fiat currencies [4]. 
+As of December 2021 Tether has the biggest number of transactions of all cryptocurrenies by volume with a market capitalization of 77 billion  U.S.Dollars [2][3].
+Tether Limited follows KYC rules before authorizing the issuance of tokens of the stablecoins on the Bitcoin blockchain whitch acts as the Layer 1[2]. In order for 
+this to be achieved, the transaction Leger of the Tether blockchain is held in the Bitcoin blockchain as meta-data [4].
+Advantages  1)its cryptographically secured [4].
+            2)Tether can be stored on digital wallets ,and can facilitate transactions[4].
+            3)Mobile transaction capabilities[5].
+            4)Provides absolute transparency of all transactions [1][2].
+            5)Tether doesnt face any Liquidity restrictions[1][2].
+
+Disadvantages 1)Owened and issued by a centalized company , thus creating a single point of failure.

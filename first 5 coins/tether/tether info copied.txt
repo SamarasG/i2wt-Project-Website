@@ -1,0 +1,25 @@
+Tether tokens are referred to as stablecoins because they offer price stability as they are pegged to a fiat currency.[2]
+ This offers traders, merchants and funds a low volatility solution when exiting positions in the market.[2]
+ Tether tokens have grown in popularity over the past few years, with a market cap of over US$77 billion (as of December 2021). Tether tokens allow customers the ability to transact across different blockchains, 
+ without the inherent volatility and complexity typically associated with digital tokens.[2]
+ Blockchain ready
+Tether tokens exist as digital tokens built on various blockchains including
+ Algorand, Ethereum, EOS, Liquid Network, Omni, Tron, Bitcoin Cash’s Standard Ledger Protocol, and Solana. 
+ Therefore, issuance of Tether tokens is viable on various blockchains with varying capabilities depending on the transport protocol used.[2]
+ Tether only issues new Tether tokens when they are requested and purchased by customers who have followed our strict KYC procedure.[2]
+ 
+ 
+ Launched in 2014, Tether tokens (USD₮) pioneered the stablecoin model and are the most widely traded.
+ Tether tokens offer the stability and simplicity of fiat currencies coupled with the innovative nature of blockchain technology, representing a perfect combination of both worlds.[1]
+ Tether tokens are among the most traded tokens in terms of daily volume, offering unequalled liquidity.[1]
+ Tether tokens’ issued and reserve assets are publicly available and updated.[1]
+ Tether supports US dollar (USD), euro (EUR), Mexican Peso (MXN), British Pound Sterling (Tether GBP) and offshore Chinese yuan (CNH).[1]
+ Tether maintains world-class standardised compliance measures for anti-money laundering (AML), countering the financing of terrorism (CFT), sanctions, and know your customer (KYC) laws and regulations.[1]
+Move small or big amounts at low cost with Tether tokens.[1]
+
+
+Tether (often referred to by its currency codes, USD₮ and USDT, among others), is an asset-backed cryptocurrency stablecoin. 
+It was launched by the company Tether Limited Inc. in 2014.[4] Tether Limited is owned by the Hong Kong-based company iFinex Inc.,
+ which also owns the Bitfinex cryptocurrency exchange.[5] As of July 2022, Tether Limited has minted the USDT stablecoin on ten protocols and blockchains.[1]
+ Tether is described as a stablecoin because it was originally designed to be valued at USD $1.00, with Tether Limited maintaining USD $1.00 of asset reserves for each USDT issued.[3]
+ n 2012, J.R. Willett published a whitepaper which described the possibility of building new cryptocurrencies on top of the Bitcoin blockchain.[3]
